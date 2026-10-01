@@ -70,12 +70,13 @@ site:
             directory: ./help-center
     - type: section
       key: section-6
-      title: Untitled
-      path: untitled
+      title: Temp
+      path: snail
+      description: "Null"
       children:
         - type: space
           key: space-6
-          title: Untitled
+          title: Temp
           path: untitled
           default: true
           draft: true
