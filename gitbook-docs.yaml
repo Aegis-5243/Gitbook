@@ -79,7 +79,6 @@ site:
           title: Temp
           path: untitled
           default: true
-          draft: true
           content:
             directory: ./untitled
     - type: section
