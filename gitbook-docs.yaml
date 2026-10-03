@@ -2,46 +2,6 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Centreville Robotics Docs
   structure:
-    - type: section
-      key: section-5
-      title: Help Center
-      path: help-center
-      icon: life-ring
-      default: true
-      children:
-        - type: space
-          key: space-5
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./help-center
-    - type: section
-      key: section-6
-      title: Temp
-      path: snail
-      description: "Null"
-      children:
-        - type: space
-          key: space-6
-          title: Temp
-          path: untitled
-          default: true
-          content:
-            directory: ./untitled
-    - type: section
-      key: section-7
-      title: Product Docs
-      path: product-docs
-      children:
-        - type: space
-          key: space-7
-          title: Product Docs
-          path: product-docs
-          default: true
-          draft: true
-          content:
-            directory: ./product-docs
     - type: section-group
       key: section-group-1
       title: DOcumentmwna;jkdflj
@@ -53,6 +13,7 @@ site:
           path: documentation
           description: fajkslfdasfdlkasjkdfh
           icon: book-blank
+          default: true
           children:
             - type: space
               key: space-2
